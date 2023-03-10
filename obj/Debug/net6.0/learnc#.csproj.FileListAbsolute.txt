@@ -1,0 +1,15 @@
+/home/mrhollowman/learnc#/bin/Debug/net6.0/learnc#
+/home/mrhollowman/learnc#/bin/Debug/net6.0/learnc#.deps.json
+/home/mrhollowman/learnc#/bin/Debug/net6.0/learnc#.runtimeconfig.json
+/home/mrhollowman/learnc#/bin/Debug/net6.0/learnc#.dll
+/home/mrhollowman/learnc#/bin/Debug/net6.0/learnc#.pdb
+/home/mrhollowman/learnc#/obj/Debug/net6.0/learnc#.csproj.AssemblyReference.cache
+/home/mrhollowman/learnc#/obj/Debug/net6.0/learnc#.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrhollowman/learnc#/obj/Debug/net6.0/learnc#.AssemblyInfoInputs.cache
+/home/mrhollowman/learnc#/obj/Debug/net6.0/learnc#.AssemblyInfo.cs
+/home/mrhollowman/learnc#/obj/Debug/net6.0/learnc#.csproj.CoreCompileInputs.cache
+/home/mrhollowman/learnc#/obj/Debug/net6.0/learnc#.dll
+/home/mrhollowman/learnc#/obj/Debug/net6.0/refint/learnc#.dll
+/home/mrhollowman/learnc#/obj/Debug/net6.0/learnc#.pdb
+/home/mrhollowman/learnc#/obj/Debug/net6.0/learnc#.genruntimeconfig.cache
+/home/mrhollowman/learnc#/obj/Debug/net6.0/ref/learnc#.dll
